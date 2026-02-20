@@ -20,7 +20,7 @@ Requisitos funcionais, não funcionais e regras de negócios para um sistema web
 - RNF02 - Tempo de Autenticação
   - Token JWT com tempo de expiração de uma hora
 
-##Regras de Negócio
+## Regras de Negócio
 
 - RG01 - Tamanho do Nome de Usuário
   - O nome de usuário não deve ultrapssar 10 caracteres
